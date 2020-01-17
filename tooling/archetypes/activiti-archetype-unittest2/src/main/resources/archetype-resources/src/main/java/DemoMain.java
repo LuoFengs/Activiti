@@ -1,4 +1,6 @@
-package $ import com.google.common.collect.Maps;
+package ${package};
+
+import com.google.common.collect.Maps;
 import org.activiti.engine.form.FormProperty;
 import org.activiti.engine.form.TaskFormData;
 import org.activiti.engine.impl.form.DateFormType;
@@ -18,7 +20,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-{package};
+
 
 /**
  * @author : luofeng
